@@ -5,6 +5,7 @@ def find_item_by_name_in_collection(name, collection)
 end
 
 def consolidate_cart(cart)
+
   # Consult README for inputs and outputs
   #
   # REMEMBER: This returns a new Array that represents the cart. Don't merely
@@ -12,18 +13,21 @@ def consolidate_cart(cart)
 end
 
 def apply_coupons(cart, coupons)
+  
   # Consult README for inputs and outputs
   #
   # REMEMBER: This method **should** update cart
 end
 
 def apply_clearance(cart)
+
   # Consult README for inputs and outputs
   #
   # REMEMBER: This method **should** update cart
 end
 
 def checkout(cart, coupons)
+
   # Consult README for inputs and outputs
   #
   # This method should call
