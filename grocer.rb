@@ -1,4 +1,5 @@
 def find_item_by_name_in_collection(name, collection)
+   
   # Implement me first!
   #
   # Consult README for inputs and outputs
@@ -13,7 +14,7 @@ def consolidate_cart(cart)
 end
 
 def apply_coupons(cart, coupons)
-  
+
   # Consult README for inputs and outputs
   #
   # REMEMBER: This method **should** update cart
